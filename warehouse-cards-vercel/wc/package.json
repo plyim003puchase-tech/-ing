@@ -1,6 +1,0 @@
-{
-  "name": "warehouse-cards",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": { "google-auth-library": "^9.14.0" }
-}
